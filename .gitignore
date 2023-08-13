@@ -1,0 +1,67 @@
+*/media
+*/migrations
+*.bak
+*.log
+*.pot
+*.pyc
+db.sqlite3
+.idea
+__pycache__
+.env
+.venv
+env/
+venv/
+env.bak/
+venv.bak/
+/site
+*.mypy_cache/
+*.tmlanguaje.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+sftp-config-json
+.vscode/*
+
+# Archivos y carpetas generados automáticamente
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.bak
+
+# Archivos de entorno y configuración
+.env
+*.sqlite3
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos específicos de Django
+*.log
+*.pot
+*.pyc
+local_settings.py
+db.sqlite3
+
+# Archivos de IDE y editor
+.vscode/
+.idea/
+
+# Carpeta de entorno virtual (si utilizas venv o virtualenv)
+venv/
+env/
+
+# Carpeta de configuración de static files (si utilizas whitenoise)
+staticfiles/
+
+# Archivos de respaldo
+*~
+
+# Otros archivos y carpetas personalizados para ignorar
+# ...
+
+
